@@ -524,32 +524,32 @@
 		)
 	)
 	(no_connect
-		(at 134.62 76.2)
+		(at 134.62 104.14)
 		(uuid "52611b0a-df5d-4c2a-919d-f8f775cdb85e")
 	)
 	(no_connect
-		(at 134.62 106.68)
+		(at 134.62 134.62)
 		(uuid "537a7074-f7d7-412b-84a5-3e3618347bf7")
 	)
 	(no_connect
-		(at 134.62 60.96)
+		(at 134.62 88.9)
 		(uuid "5a24d5af-dc4f-4049-8a82-052125d9dcac")
 	)
 	(no_connect
-		(at 134.62 45.72)
+		(at 134.62 73.66)
 		(uuid "5d34cdbb-000d-4088-9bd3-f14f47c9073e")
 	)
 	(no_connect
-		(at 78.74 45.72)
+		(at 134.62 57.15)
 		(uuid "665fcd90-9c41-448f-9a25-a1260fe9f862")
 	)
 	(no_connect
-		(at 134.62 91.44)
+		(at 134.62 119.38)
 		(uuid "bf0ddf2d-6d61-4e68-af9c-5d7e6df18f56")
 	)
 	(wire
 		(pts
-			(xy 143.51 104.14) (xy 134.62 104.14)
+			(xy 143.51 132.08) (xy 134.62 132.08)
 		)
 		(stroke
 			(width 0)
@@ -559,7 +559,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 43.18) (xy 134.62 43.18)
+			(xy 143.51 71.12) (xy 134.62 71.12)
 		)
 		(stroke
 			(width 0)
@@ -569,7 +569,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 109.22) (xy 134.62 109.22)
+			(xy 137.16 137.16) (xy 134.62 137.16)
 		)
 		(stroke
 			(width 0)
@@ -579,7 +579,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 88.9) (xy 134.62 88.9)
+			(xy 143.51 116.84) (xy 134.62 116.84)
 		)
 		(stroke
 			(width 0)
@@ -589,7 +589,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 43.18) (xy 78.74 43.18)
+			(xy 143.51 54.61) (xy 134.62 54.61)
 		)
 		(stroke
 			(width 0)
@@ -599,7 +599,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 48.26) (xy 134.62 48.26)
+			(xy 137.16 76.2) (xy 134.62 76.2)
 		)
 		(stroke
 			(width 0)
@@ -609,7 +609,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 73.66) (xy 134.62 73.66)
+			(xy 143.51 101.6) (xy 134.62 101.6)
 		)
 		(stroke
 			(width 0)
@@ -619,7 +619,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 93.98) (xy 134.62 93.98)
+			(xy 137.16 121.92) (xy 134.62 121.92)
 		)
 		(stroke
 			(width 0)
@@ -629,7 +629,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 48.26) (xy 78.74 48.26)
+			(xy 137.16 59.69) (xy 134.62 59.69)
 		)
 		(stroke
 			(width 0)
@@ -639,7 +639,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 58.42) (xy 134.62 58.42)
+			(xy 143.51 86.36) (xy 134.62 86.36)
 		)
 		(stroke
 			(width 0)
@@ -649,7 +649,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 63.5) (xy 134.62 63.5)
+			(xy 137.16 91.44) (xy 134.62 91.44)
 		)
 		(stroke
 			(width 0)
@@ -659,7 +659,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 78.74) (xy 134.62 78.74)
+			(xy 137.16 106.68) (xy 134.62 106.68)
 		)
 		(stroke
 			(width 0)
@@ -733,7 +733,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 88.9 0)
+		(at 143.51 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -742,7 +742,7 @@
 		(fields_autoplaced yes)
 		(uuid "0eda64ba-b83a-429b-960f-2a5711e8105d")
 		(property "Reference" "#PWR010"
-			(at 143.51 95.25 0)
+			(at 143.51 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -751,7 +751,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 93.0331 0)
+			(at 143.51 120.9731 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -759,7 +759,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 88.9 0)
+			(at 143.51 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -768,7 +768,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 88.9 0)
+			(at 143.51 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -777,7 +777,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 88.9 0)
+			(at 143.51 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -799,7 +799,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 58.42 0)
+		(at 143.51 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -808,7 +808,7 @@
 		(fields_autoplaced yes)
 		(uuid "21132b3e-a334-4a2f-b49a-fd0d532fecb5")
 		(property "Reference" "#PWR06"
-			(at 143.51 64.77 0)
+			(at 143.51 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -817,7 +817,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 62.5531 0)
+			(at 143.51 90.4931 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -825,7 +825,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 58.42 0)
+			(at 143.51 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -834,7 +834,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 58.42 0)
+			(at 143.51 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -843,7 +843,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 58.42 0)
+			(at 143.51 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -865,7 +865,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 137.16 63.5 0)
+		(at 137.16 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -874,7 +874,7 @@
 		(fields_autoplaced yes)
 		(uuid "33d2a3a3-7e29-496d-9cab-f136f2280784")
 		(property "Reference" "#PWR05"
-			(at 137.16 67.31 0)
+			(at 137.16 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -883,7 +883,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 137.16 59.3669 0)
+			(at 137.16 87.3069 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -891,7 +891,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 63.5 0)
+			(at 137.16 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -900,7 +900,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 63.5 0)
+			(at 137.16 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -909,7 +909,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 137.16 63.5 0)
+			(at 137.16 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -931,7 +931,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 137.16 93.98 0)
+		(at 137.16 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -940,7 +940,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c7202bf-ebc4-4a45-8ba4-3806c0e58503")
 		(property "Reference" "#PWR09"
-			(at 137.16 97.79 0)
+			(at 137.16 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -949,7 +949,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 137.16 89.8469 0)
+			(at 137.16 117.7869 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -957,7 +957,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 93.98 0)
+			(at 137.16 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -966,7 +966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 93.98 0)
+			(at 137.16 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -975,7 +975,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 137.16 93.98 0)
+			(at 137.16 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -997,7 +997,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 43.18 0)
+		(at 143.51 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1006,7 +1006,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f160bed-8357-4d11-8409-659010955e71")
 		(property "Reference" "#PWR04"
-			(at 143.51 49.53 0)
+			(at 143.51 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1015,7 +1015,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 47.3131 0)
+			(at 143.51 75.2531 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1023,7 +1023,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 43.18 0)
+			(at 143.51 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1032,7 +1032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 43.18 0)
+			(at 143.51 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1041,7 +1041,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 43.18 0)
+			(at 143.51 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1063,7 +1063,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 137.16 78.74 0)
+		(at 137.16 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1072,7 +1072,7 @@
 		(fields_autoplaced yes)
 		(uuid "45127f79-4963-4ecd-b400-1f986d74498b")
 		(property "Reference" "#PWR07"
-			(at 137.16 82.55 0)
+			(at 137.16 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1081,7 +1081,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 137.16 74.6069 0)
+			(at 137.16 102.5469 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1089,7 +1089,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 78.74 0)
+			(at 137.16 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1098,7 +1098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 78.74 0)
+			(at 137.16 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1107,7 +1107,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 137.16 78.74 0)
+			(at 137.16 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1129,7 +1129,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 43.18 0)
+		(at 143.51 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1138,7 +1138,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c77b486-aaa0-4dcc-a41f-1e95cb0cf529")
 		(property "Reference" "#PWR01"
-			(at 87.63 49.53 0)
+			(at 143.51 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1147,7 +1147,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 47.3131 0)
+			(at 143.51 58.7431 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1155,7 +1155,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 43.18 0)
+			(at 143.51 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1164,7 +1164,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 43.18 0)
+			(at 143.51 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,7 +1173,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 43.18 0)
+			(at 143.51 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1259,15 +1259,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack_Switch")
-		(at 127 45.72 0)
+		(at 127 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "57ed8f5b-82fa-402d-85be-59a9f8e50368")
-		(property "Reference" "J21"
-			(at 127 37.7655 0)
+		(property "Reference" "J2"
+			(at 127 65.7055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1275,7 +1275,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 127 40.1898 0)
+			(at 127 68.1298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1283,7 +1283,7 @@
 			)
 		)
 		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 128.27 46.736 0)
+			(at 128.27 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1292,7 +1292,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 46.736 0)
+			(at 128.27 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1301,7 +1301,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
-			(at 127 45.72 0)
+			(at 127 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1321,7 +1321,7 @@
 		(instances
 			(project "power-distributor"
 				(path "/af68e64f-2670-487f-964a-55066910bc92"
-					(reference "J21")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1329,7 +1329,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 137.16 48.26 0)
+		(at 137.16 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1338,7 +1338,7 @@
 		(fields_autoplaced yes)
 		(uuid "5945c1ff-9d18-431e-9129-a0f6d2dacd90")
 		(property "Reference" "#PWR03"
-			(at 137.16 52.07 0)
+			(at 137.16 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1347,7 +1347,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 137.16 44.1269 0)
+			(at 137.16 72.0669 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1355,7 +1355,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 48.26 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1364,7 +1364,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 48.26 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1373,7 +1373,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 137.16 48.26 0)
+			(at 137.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1395,7 +1395,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack_Switch")
-		(at 127 60.96 0)
+		(at 127 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1403,8 +1403,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6632603d-0a2a-4a6a-8287-b03864fdcae1")
-		(property "Reference" "J22"
-			(at 127 53.0055 0)
+		(property "Reference" "J3"
+			(at 127 80.9455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1412,7 +1412,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 127 55.4298 0)
+			(at 127 83.3698 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1420,7 +1420,7 @@
 			)
 		)
 		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 128.27 61.976 0)
+			(at 128.27 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1429,7 +1429,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 61.976 0)
+			(at 128.27 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1438,7 +1438,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
-			(at 127 60.96 0)
+			(at 127 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1458,7 +1458,7 @@
 		(instances
 			(project "power-distributor"
 				(path "/af68e64f-2670-487f-964a-55066910bc92"
-					(reference "J22")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1466,7 +1466,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack_Switch")
-		(at 127 91.44 0)
+		(at 127 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1474,8 +1474,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "696e28c4-c06c-470e-9b19-73d0b68d0e74")
-		(property "Reference" "J24"
-			(at 127 83.4855 0)
+		(property "Reference" "J5"
+			(at 127 111.4255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1483,7 +1483,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 127 85.9098 0)
+			(at 127 113.8498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1491,7 +1491,7 @@
 			)
 		)
 		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 128.27 92.456 0)
+			(at 128.27 120.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1500,7 +1500,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 92.456 0)
+			(at 128.27 120.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1509,7 +1509,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
-			(at 127 91.44 0)
+			(at 127 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1529,7 +1529,7 @@
 		(instances
 			(project "power-distributor"
 				(path "/af68e64f-2670-487f-964a-55066910bc92"
-					(reference "J24")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -1537,7 +1537,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack_Switch")
-		(at 127 106.68 0)
+		(at 127 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1545,8 +1545,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fbf79f8-a5b3-4366-b0fa-727f75b0371d")
-		(property "Reference" "J25"
-			(at 127 98.7255 0)
+		(property "Reference" "J6"
+			(at 127 126.6655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1554,7 +1554,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 127 101.1498 0)
+			(at 127 129.0898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1562,7 +1562,7 @@
 			)
 		)
 		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 128.27 107.696 0)
+			(at 128.27 135.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1571,7 +1571,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 107.696 0)
+			(at 128.27 135.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1580,7 +1580,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
-			(at 127 106.68 0)
+			(at 127 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1600,7 +1600,7 @@
 		(instances
 			(project "power-distributor"
 				(path "/af68e64f-2670-487f-964a-55066910bc92"
-					(reference "J25")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -1608,7 +1608,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 81.28 48.26 0)
+		(at 137.16 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1617,7 +1617,7 @@
 		(fields_autoplaced yes)
 		(uuid "906fdf84-193f-46a1-87e3-a3dfdb911cae")
 		(property "Reference" "#PWR02"
-			(at 81.28 52.07 0)
+			(at 137.16 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1626,7 +1626,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 81.28 44.1269 0)
+			(at 137.16 55.5569 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1634,7 +1634,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 48.26 0)
+			(at 137.16 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1643,7 +1643,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 48.26 0)
+			(at 137.16 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1652,7 +1652,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 81.28 48.26 0)
+			(at 137.16 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1674,7 +1674,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack_Switch")
-		(at 127 76.2 0)
+		(at 127 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1682,8 +1682,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95e06e9b-1b92-4c01-87cf-05ff07f98457")
-		(property "Reference" "J23"
-			(at 127 68.2455 0)
+		(property "Reference" "J4"
+			(at 127 96.1855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1691,7 +1691,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 127 70.6698 0)
+			(at 127 98.6098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1699,7 +1699,7 @@
 			)
 		)
 		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 128.27 77.216 0)
+			(at 128.27 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1708,7 +1708,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 77.216 0)
+			(at 128.27 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1717,7 +1717,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
-			(at 127 76.2 0)
+			(at 127 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1737,7 +1737,7 @@
 		(instances
 			(project "power-distributor"
 				(path "/af68e64f-2670-487f-964a-55066910bc92"
-					(reference "J23")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1745,7 +1745,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 104.14 0)
+		(at 143.51 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1754,7 +1754,7 @@
 		(fields_autoplaced yes)
 		(uuid "972e311d-b054-4372-bdce-07345afe0009")
 		(property "Reference" "#PWR012"
-			(at 143.51 110.49 0)
+			(at 143.51 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1763,7 +1763,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 108.2731 0)
+			(at 143.51 136.2131 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1771,7 +1771,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 104.14 0)
+			(at 143.51 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1780,7 +1780,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 104.14 0)
+			(at 143.51 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1789,7 +1789,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 104.14 0)
+			(at 143.51 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1811,7 +1811,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Barrel_Jack_Switch")
-		(at 71.12 45.72 0)
+		(at 127 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1819,8 +1819,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c10409b8-dbcb-4afc-86c4-9a7c421d01c2")
-		(property "Reference" "J11"
-			(at 71.12 37.7655 0)
+		(property "Reference" "J1"
+			(at 127 49.1955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1828,7 +1828,7 @@
 			)
 		)
 		(property "Value" "Barrel_Jack"
-			(at 71.12 40.1898 0)
+			(at 127 51.6198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1836,7 +1836,7 @@
 			)
 		)
 		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
-			(at 72.39 46.736 0)
+			(at 128.27 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1845,7 +1845,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 46.736 0)
+			(at 128.27 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1854,7 +1854,7 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
-			(at 71.12 45.72 0)
+			(at 127 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1874,7 +1874,7 @@
 		(instances
 			(project ""
 				(path "/af68e64f-2670-487f-964a-55066910bc92"
-					(reference "J11")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -1946,7 +1946,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 137.16 109.22 0)
+		(at 137.16 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1955,7 +1955,7 @@
 		(fields_autoplaced yes)
 		(uuid "c436d86e-6a8e-47a9-8aaf-f1401dd60aef")
 		(property "Reference" "#PWR011"
-			(at 137.16 113.03 0)
+			(at 137.16 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1964,7 +1964,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 137.16 105.0869 0)
+			(at 137.16 133.0269 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1972,7 +1972,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 109.22 0)
+			(at 137.16 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1981,7 +1981,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 109.22 0)
+			(at 137.16 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1990,7 +1990,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 137.16 109.22 0)
+			(at 137.16 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2012,7 +2012,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 143.51 73.66 0)
+		(at 143.51 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2021,7 +2021,7 @@
 		(fields_autoplaced yes)
 		(uuid "da824800-2d6a-4432-bfde-cc94d85c2052")
 		(property "Reference" "#PWR08"
-			(at 143.51 80.01 0)
+			(at 143.51 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2030,7 +2030,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 143.51 77.7931 0)
+			(at 143.51 105.7331 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2038,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 73.66 0)
+			(at 143.51 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2047,7 +2047,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 73.66 0)
+			(at 143.51 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2056,7 +2056,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 143.51 73.66 0)
+			(at 143.51 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
